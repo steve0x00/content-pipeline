@@ -45,4 +45,4 @@ Further reading
 
 Other
 ---
-[Lesson slides](./files/lesson_slides.pdf)
+[Lesson slides](./content-pipeline-slides.pdf)
